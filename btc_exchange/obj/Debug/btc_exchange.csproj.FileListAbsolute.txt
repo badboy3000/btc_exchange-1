@@ -1,0 +1,12 @@
+c:\users\dperry\documents\visual studio 2010\projects\btc_exchange\btc_exchange\bin\btc_exchange.dll
+c:\users\dperry\documents\visual studio 2010\projects\btc_exchange\btc_exchange\bin\btc_exchange.pdb
+c:\users\dperry\documents\visual studio 2010\projects\btc_exchange\btc_exchange\obj\Debug\ResolveAssemblyReference.cache
+c:\users\dperry\documents\visual studio 2010\projects\btc_exchange\btc_exchange\obj\Debug\btc_exchange.dll
+c:\users\dperry\documents\visual studio 2010\projects\btc_exchange\btc_exchange\obj\Debug\btc_exchange.pdb
+C:\Users\dperry\Documents\Visual Studio 2010\Projects\btc_exchange\btc_exchange\bin\Recaptcha.dll
+C:\Users\dperry\Documents\Visual Studio 2010\Projects\btc_exchange\btc_exchange\bin\Recaptcha.pdb
+C:\Users\dperry\Documents\Visual Studio 2010\Projects\btc_exchange\btc_exchange\bin\Bitnet.Client.dll
+C:\Users\dperry\Documents\Visual Studio 2010\Projects\btc_exchange\btc_exchange\bin\Newtonsoft.Json.dll
+C:\Users\dperry\Documents\Visual Studio 2010\Projects\btc_exchange\btc_exchange\bin\Bitnet.Client.pdb
+C:\Users\dperry\Documents\Visual Studio 2010\Projects\btc_exchange\btc_exchange\bin\Newtonsoft.Json.pdb
+C:\Users\dperry\Documents\Visual Studio 2010\Projects\btc_exchange\btc_exchange\bin\Newtonsoft.Json.xml

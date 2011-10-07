@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "btc_exchange", "btc_exchange\btc_exchange.csproj", "{EE1A7506-D638-4E76-87DC-FB9A2BC2624B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Newtonsoft.Json", "..\bitnet\trunk\Newtonsoft.Json\Newtonsoft.Json.csproj", "{A9AE40FF-1A21-414A-9FE7-3BE13644CC6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bitnet.Client", "..\bitnet\trunk\Bitnet.Client\Bitnet.Client.csproj", "{90D3E431-02DF-432F-9F09-ED6E934BACD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE1A7506-D638-4E76-87DC-FB9A2BC2624B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE1A7506-D638-4E76-87DC-FB9A2BC2624B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE1A7506-D638-4E76-87DC-FB9A2BC2624B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE1A7506-D638-4E76-87DC-FB9A2BC2624B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9AE40FF-1A21-414A-9FE7-3BE13644CC6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9AE40FF-1A21-414A-9FE7-3BE13644CC6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9AE40FF-1A21-414A-9FE7-3BE13644CC6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9AE40FF-1A21-414A-9FE7-3BE13644CC6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90D3E431-02DF-432F-9F09-ED6E934BACD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90D3E431-02DF-432F-9F09-ED6E934BACD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90D3E431-02DF-432F-9F09-ED6E934BACD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90D3E431-02DF-432F-9F09-ED6E934BACD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
